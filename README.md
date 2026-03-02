@@ -1,8 +1,8 @@
-# Hi, I'm Muhammad Haikal 👋
+# Hi, I'm Haikal Zulkifli 👋
 
 🎓 Bachelor of Computer Engineering (Hons) Student at UTeM  
 📊 Current CGPA: 3.89  
-🔧 Passionate about Embedded Systems, Robotics & Hardware-Software Integration  
+🔧 Passionate about Embedded Systems, Robotics, Artificial Intelligience & Hardware-Software Integration  
 
 ---
 
@@ -10,6 +10,7 @@
 - Embedded Systems (LPC1768, ESP32)
 - ARM Assembly
 - C++ / Python / Java
+- AutoCAD Design
 - PCB Design & Circuit Troubleshooting
 - Autonomous Robot Development
 
@@ -30,5 +31,5 @@
 
 ---
 
-## 📫 Contact Me
-📧 haikalhaziq555@gmail.com
+## 🌐 Connect With Me
+🔗 LinkedIn: https://linkedin.com/in/your-link-here
