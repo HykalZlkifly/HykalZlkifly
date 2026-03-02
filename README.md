@@ -28,8 +28,3 @@
 - 🥈 2nd Runner-Up – MMU World Robotic Competition (University Category)
 - 🥈 2nd Place – HATCHQUEST Bootcamp 2025
 - Participant – Robocon 2025 & NI ARC
-
----
-
-## 🌐 Connect With Me
-🔗 LinkedIn: https://linkedin.com/in/your-link-here
