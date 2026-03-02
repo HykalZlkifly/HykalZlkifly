@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Muhammad Haikal 👋
 
-<!--
-**HykalZlkifly/HykalZlkifly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Computer Engineering (Hons) Student at UTeM  
+📊 Current CGPA: 3.89  
+🔧 Passionate about Embedded Systems, Robotics & Hardware-Software Integration  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technical Skills
+- Embedded Systems (LPC1768, ESP32)
+- ARM Assembly
+- C++ / Python / Java
+- PCB Design & Circuit Troubleshooting
+- Autonomous Robot Development
+
+---
+
+## 🔬 Current Interests
+- Firmware Development
+- Hardware Monitoring Systems
+- Smart Embedded UI
+- Robotics Control Systems
+
+---
+
+## 🏆 Achievements
+- 🥈 2nd Runner-Up – MMU World Robotic Competition (University Category)
+- 🥈 2nd Place – HATCHQUEST Bootcamp 2025
+- Participant – Robocon 2025 & NI ARC
+
+---
+
+## 📫 Contact Me
+📧 haikalhaziq555@gmail.com
