@@ -1,7 +1,7 @@
 # Hi, I'm Haikal Zulkifli 👋
 
 🎓 Bachelor of Computer Engineering (Hons) Student at UTeM  
-📊 Current CGPA: 3.89  
+📊 Current CGPA: 3.90  
 🔧 Passionate about Embedded Systems, Robotics, Artificial Intelligience & Hardware-Software Integration  
 
 ---
